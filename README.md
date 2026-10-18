@@ -52,7 +52,10 @@ Sorts course titles into structured taxonomies (L&D, Bloom's, skills frameworks)
 **[Q-Volution Hackathon: Rigetti Challenge, Top 5](https://q-volution-hackathon.vercel.app/)**
 Industrial energy optimization with quantum-classical hybrid methods on Rigetti quantum hardware.
 
-**More I've built:** an AWS + Terraform ETL pipeline, and a SQL + Python data pipeline with data-quality checks and Excel reporting.
+**[Munich Air Quality Monitor](https://github.com/rafiasimran/munich-air-quality-monitor)**
+A daily data pipeline that collects Munich air-quality and weather data, runs five data-quality checks (missing values, out-of-range readings, sudden jumps, stuck sensors, missing hours), stores it in SQLite and publishes a live dashboard. Python, SQL, pytest, GitHub Actions. [Live dashboard](https://rafiasimran.github.io/munich-air-quality-monitor/)
+
+**Also built:** an AWS + Terraform ETL pipeline.
 
 ## Writing
 
