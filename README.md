@@ -18,8 +18,8 @@ I turn ideas into working AI products and connect the technical build with the b
 **[Blog Automation Pipeline](https://github.com/rafiasimran/blog-automation-pipeline-showcase)**
 A weekly GitHub Actions pipeline that drafts technical blog posts with the Gemini API, checks them against my quality rules and sends them to DEV for me to review. Python, REST APIs, pytest.
 
-**[EcoScope: ZEISS AI Challenge, 1st prize](https://rural-rudbeckia-0ce.notion.site/EcoScope-ZEISS-3652159900248002b042e08e747fedef)**
-A dashboard MVP that finds idle energy waste in microscope workflow data, with an AI assistant that suggests fixes.
+**[EcoScope: ZEISS AI Challenge, 1st prize](https://github.com/rafiasimran/ecoscope-zeiss-case-study)**
+A dashboard MVP that finds idle energy waste in microscope workflow data, with an AI assistant that suggests fixes. I led the product side: problem definition, user stories, Figma prototype, pitch and live demo. [Live demo](https://ecoscope-five.vercel.app/)
 
 **[Q-Volution Hackathon: Rigetti Challenge, Top 5](https://q-volution-hackathon.vercel.app/)**
 Industrial energy optimization with quantum-classical hybrid methods on Rigetti quantum hardware.
