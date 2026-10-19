@@ -52,6 +52,10 @@ Sorts course titles into structured taxonomies (L&D, Bloom's, skills frameworks)
 **[Q-Volution Hackathon: Rigetti Challenge, Top 5](https://q-volution-hackathon.vercel.app/)**
 Industrial energy optimization with quantum-classical hybrid methods on Rigetti quantum hardware.
 
+<img src="assets/QVolution%20Rigetti%20Dashboard%20hackathon.png" alt="Q-Volution dashboard: QAOA Max-Cut on a power-grid graph, compared with GW-SDP, simulated annealing and Rigetti Ankaa-3 hardware" width="100%">
+
+*Our dashboard: graph partitioning with preconditioned QAOA, gate and depth metrics, and a comparison against classical methods and Rigetti Ankaa-3 hardware results.*
+
 **[Munich Air Quality Monitor](https://github.com/rafiasimran/munich-air-quality-monitor)**
 A daily data pipeline that collects Munich air-quality and weather data, runs five data-quality checks (missing values, out-of-range readings, sudden jumps, stuck sensors, missing hours), stores it in SQLite and publishes a live dashboard. Python, SQL, pytest, GitHub Actions. [Live dashboard](https://rafiasimran.github.io/munich-air-quality-monitor/)
 
