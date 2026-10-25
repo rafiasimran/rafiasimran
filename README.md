@@ -1,6 +1,6 @@
 # Hi, I'm Rafia 👋
 
-I turn ideas into working AI products and connect the technical build with the business goal behind it. I study Engineering Physics & Data Science at Munich University of Applied Sciences, and I like taking something from a rough idea to a prototype people can actually use.
+I study Engineering Physics & Data Science at Munich University of Applied Sciences. I like building small AI and data tools and getting them from a rough idea to something people can actually use.
 
 🏆 My team won **1st prize at the ZEISS AI Challenge 2026** with an energy app for microscope workflows: a rule-based model plus a Gemini-powered assistant that suggests fixes, demonstrated live on a held-out test scenario.
 
