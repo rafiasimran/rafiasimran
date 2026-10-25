@@ -59,6 +59,9 @@ Industrial energy optimization with quantum-classical hybrid methods on Rigetti 
 **[Munich Air Quality Monitor](https://github.com/rafiasimran/munich-air-quality-monitor)**
 A daily data pipeline that collects Munich air-quality and weather data, runs five data-quality checks (missing values, out-of-range readings, sudden jumps, stuck sensors, missing hours), stores it in SQLite and publishes a live dashboard. Python, SQL, pytest, GitHub Actions. [Live dashboard](https://rafiasimran.github.io/munich-air-quality-monitor/)
 
+**[RoboTriage: fault triage for robot cells](https://github.com/rafiasimran/robotriage)**
+Reads a week of robot cell logs, finds every stoppage, traces chains of alarms back to the one fault that caused them, ranks problems by downtime lost and flags faults that are getting worse. Runs every morning with GitHub Actions. Python, pytest. [Latest report](https://github.com/rafiasimran/robotriage/blob/main/reports/report.md)
+
 **Also built:** an AWS + Terraform ETL pipeline.
 
 ## Writing
