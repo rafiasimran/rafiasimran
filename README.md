@@ -62,6 +62,9 @@ A daily data pipeline that collects Munich air-quality and weather data, runs fi
 **[RoboTriage: fault triage for robot cells](https://github.com/rafiasimran/robotriage)**
 Reads a week of robot cell logs, finds every stoppage, traces chains of alarms back to the one fault that caused them, ranks problems by downtime lost and flags faults that are getting worse. Runs every morning with GitHub Actions. Python, pytest. [Latest report](https://github.com/rafiasimran/robotriage/blob/main/reports/report.md)
 
+**[Data QA for Machine Learning](https://github.com/rafiasimran/ml-data-qa)**
+A test suite for training data: 21 checks for leakage, train/test overlap, label noise and drift, each with a severity and a fix, behind a gate that stops a broken dataset reaching training. On its sample data the broken version scores 0.93 AUC and the cleaned one 0.59, which is the real number. Python, pandas, numpy, pytest, GitHub Actions. [Findings](https://github.com/rafiasimran/ml-data-qa/blob/main/docs/FINDINGS.md)
+
 **Also built:** an AWS + Terraform ETL pipeline.
 
 ## Writing
